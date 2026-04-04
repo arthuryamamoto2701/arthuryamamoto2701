@@ -1,6 +1,6 @@
 ## Hi there
 
-I'm Arthur, a backend developer in progress and ADS student.
+I'm Arthur, a backend developer in progress.
 
 ---
 
