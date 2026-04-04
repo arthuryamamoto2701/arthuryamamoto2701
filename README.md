@@ -1,16 +1,31 @@
-## Hi there 👋
+## Hi there
 
-<!--
-**arthuryamamoto2701/arthuryamamoto2701** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Arthur, a backend developer in progress and ADS student.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About me
+
+* Backend-focused (Java, Python, C#)
+* Always learning and exploring new technologies
+* Interested in teamwork and agile methodologies (Scrum)
+
+---
+
+### Currently working on
+
+* Backend projects to strengthen my skills
+* Studying system design, APIs, and best practices
+* Preparing for internship opportunities
+
+---
+
+### Tools & Technologies
+
+* Languages: Java
+* Tools: IntelliJ IDEA | Visual Studio Code
+* Concepts: REST APIs, OOP, Git, Agile (Scrum)
+
+---
+
+Always learning, building, and evolving as a backend developer.
