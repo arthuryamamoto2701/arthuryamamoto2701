@@ -6,7 +6,7 @@ I'm Arthur, a backend developer in progress.
 
 ### About me
 
-* Backend-focused (Java, Python, C#)
+* Backend-focused (Java)
 * Always learning and exploring new technologies
 * Interested in teamwork and agile methodologies (Scrum)
 
